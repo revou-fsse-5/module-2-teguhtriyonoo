@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=div, initial-scale=1.0" />
+        <title>assaigment3</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <nav>
+            <span class="relative-container">
+                <img
+                    src="https://icons.iconarchive.com/icons/streamlineicons/streamline-ux-free/256/farm-barn-icon.png"
+                    alt="Al Ikhlas Farm Icon" />
+                <b>Al Ikhlas Farm</b>
+            </span>
+            <span class="menu-container">
+                <a id="home" href="">Home</a>
+                <a id="contac" href="">Contac</a>
+                <a id="aboutus" href="">Aboutus</a>
+            </span>
+        </nav>
+
+        <header id="header">
+            <h1>Al Ikhlas Farm</h1>
+            <p>This is enviroment farm</p>
+        </header>
+        <section>
+            <h2>BIG COW</h2>
+            <div class="grid-container">
+                <div id="one" class="grid-item">
+                    <img
+                        src="https://th.bing.com/th/id/OIP.FRZGyqgac3oSRupPh-yzGgHaE8?rs=1&pid=ImgDetMain"
+                        alt="simetal" />
+                </div>
+                <div id="two" class="grid-item">
+                    <img
+                        src="https://i.pinimg.com/originals/fa/8b/0a/fa8b0a1810433af595b81e10b89c0821.jpg"
+                        alt="sapi jumbo" />
+                </div>
+                <div id="three" class="grid-item">
+                    <img
+                        src="https://seputargk.id/wp-content/uploads/2019/03/sapi-brahman-768x432.jpg"
+                        alt="brahmana cow" />
+                </div>
+                <div id="four" class="grid-item">
+                    <img
+                        src="https://th.bing.com/th/id/OIP.mPWNT49PCbeX5fu-jkVP3AHaGQ?pid=ImgDet&w=474&h=400&rs=1"
+                        alt="brahmana cow" />
+                </div>
+                <div id="five" class="grid-item">
+                    <img
+                        src="https://i.pinimg.com/736x/bf/9f/a5/bf9fa536c93199fd2e69dc2123ff70e6.jpg"
+                        alt="brahmana cow" />
+                </div>
+                <div id="six" class="grid-item">
+                    <img
+                        src="https://th.bing.com/th/id/OIP.uwB4ktK0N5ZghA7aUxejzwHaFv?pid=ImgDet&w=474&h=367&rs=1"
+                        alt="brahmana cow" />
+                </div>
+                <div id="seven" class="grid-item">
+                    <img
+                        src="https://th.bing.com/th/id/OIP.xO8Ytiu6qy6MromR2e9RigAAAA?&rs=1&pid=ImgDetMain"
+                        alt="brahmana cow" />
+                </div>
+            </div>
+        </section>
+        <section>
+            <h2>CUTE COW</h2>
+            <picture class="adaptif-picture">
+                <source
+                    media="(min-width: 480px)"
+                    srcset="
+                        https://th.bing.com/th/id/R.6e2590e92eb5a90045eaaef3b653c20e?rik=UlSvnpcwEcS7QQ&riu=http%3a%2f%2fsprzedambyka.pl%2frepo%2fpics%2f000%2f154%2f929%2fW%C5%82ochy_2016_534_view.jpg&ehk=MvKvZYeXLz9LyxqCf1QcvoWDPcpw1ycLw%2fAF9WnTs9U%3d&risl=&pid=ImgRaw&r=0
+                    " />
+                <source
+                    media="(min-width: 800px)"
+                    srcset="
+                        https://th.bing.com/th/id/OIP.IblrhVppXhQtOoixrVaf-gHaFj?w=1024&h=768&rs=1&pid=ImgDetMain
+                    " />
+                <img
+                    src="https://th.bing.com/th/id/OIP.IblrhVppXhQtOoixrVaf-gHaFj?w=1024&h=768&rs=1&pid=ImgDetMain"
+                    alt="sepi" />
+            </picture>
+        </section>
+        <section>
+            <div class="text">
+                <article>
+                    <h2>Jenis Jenis sapi di Indonesia</h2>
+                    <p>
+                        Mengutip dari buku The Graceful Presence: Kehidupan
+                        Bersama Sapi karya Michael Davis, sapi adalah hewan yang
+                        penuh kelembutan dan kesederhanaan. Mereka memberikan
+                        kita susu yang bergizi dan daging yang mengenyangkan.
+                    </p>
+                    <h3>Berikut 5 jenis sapi pupuler di indonesia</h3>
+                    <ol>
+                        <li>Sapi Brahmana</li>
+                        <li>Sapi Limousin</li>
+                        <li>Sapi Po</li>
+                        <li>Sapi Perah</li>
+                        <li>Sapi Beefalo</li>
+                    </ol>
+                </article>
+            </div>
+        </section>
+        <h2>Come To Al Ikhlas Farm</h2>
+        <form action="#" class="form">
+            <fieldset>
+                <legend>Biodata</legend>
+                <div>
+                    <label for="FullName">Full Name</label>
+                    <input type="text" id="fullname" aria-required="true" />
+                </div>
+                <div>
+                    <label for="email">Email</label>
+                    <input type="email" id="email" aria-required="true" />
+                </div>
+                <div>
+                    <label for="dob">Date Of Brith</label>
+                    <input type="date" id="dob" name="Brithday" />
+                </div>
+                <div>
+                    <textarea
+                        name="Comment"
+                        id="Comment"
+                        cols="30"
+                        rows="10"
+                        placeholder="your comment">
+                    </textarea>
+                </div>
+                <div>
+                    <button class="button" type="button">Submit</button>
+                </div>
+            </fieldset>
+        </form>
+    </body>
+    <footer class="footer">
+        <p id="footer-text">All rights reserved by alikhlasfarm.com</p>
+    </footer>
+</html>
