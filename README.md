@@ -8,4 +8,4 @@
 
 ### link deploy assigment
 
-[link]()
+[link](https://alikhlassfarm.netlify.app/)
