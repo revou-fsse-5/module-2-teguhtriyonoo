@@ -8,4 +8,8 @@
 
 ### link deploy assigment
 
-[link](https://alikhlassfarm.netlify.app/)
+[link](https://vercel.com/teguhtriyonoos-projects/teguh/2j8m6gQDRBaJxCrKaEVnXaqDWdkq)
+
+### Link website
+
+[website](https://www.alikhlassfarm.online/)
