@@ -6,6 +6,16 @@
 
 ## responsive background
 
+## push ke repository dan public
+
+## buka vercel
+
+## copy link repository
+
+## masukan di vercel
+
+## deploy dan tunggu hingga proses selesai
+
 ### link deploy assigment
 
 [link](https://vercel.com/teguhtriyonoos-projects/teguh/2j8m6gQDRBaJxCrKaEVnXaqDWdkq)
