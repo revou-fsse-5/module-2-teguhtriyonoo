@@ -1,20 +1,29 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2BREHFic)
 
-## nav bar stiky
+### nav bar stiky
 
-## grid
+### grid
 
-## responsive background
+### responsive background
 
-## push ke repository dan public
+### push ke repository dan public
 
-## buka vercel
+### buka vercel
 
-## copy link repository
+![vercel](./asset/Screenshot%202024-07-24%20214221.png)
 
-## masukan di vercel
+### copy link repository
 
-## deploy dan tunggu hingga proses selesai
+![linkrepo](./asset/Screenshot%202024-07-24%20214259.png)
+
+### deploy dan tunggu hingga proses selesai
+
+![deploy](./asset/Screenshot%202024-07-24%20214425.png)
+
+### beli domain dan lakukan setting agar website dapat di akses
+
+![setting](./asset/Screenshot%202024-07-24%20214519.png)
+![settingg](./asset/Screenshot%202024-07-24%20214803.png)
 
 ### link deploy assigment
 
